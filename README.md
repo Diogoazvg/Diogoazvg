@@ -4,7 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer - Backend Ruby on Rails
 -----------------------------------------
 
-I'm passionate about building web applications with Ruby on Rails . I love its elegance, speed, and vibrant community ✨. Here's what I bring to the table: \*\* Strong Rails foundation:\*\* Solid understanding of Rails concepts like MVC, ActiveRecord, and testing frameworks . ️ Practical experience: Developed various Rails applications, from simple prototypes to complex production systems . \*\* Collaborative spirit:\*\* Enjoy working with teams and contributing to open-source projects . ‍ Continuous learning: Always eager to learn new things and stay up-to-date with the latest trends in Rails development . Here are some of my favorite Rails tools and libraries: Devise: Authentication made easy RSpec: Testing made fun 🃏 Sidekiq: Asynchronous background processing ⏱️ Stimulus: JavaScript for Rails ⚡️ Bootstrap: Responsive front-end development Let's build something awesome together! Check out my projects: \[link to your projects on Github\] Connect with me: \[link to your social media profiles\]
+Rails Enthusiast
+I'm passionate about building web applications with Ruby on Rails . I love its elegance, speed, and vibrant community ✨.
+
+Here's what I bring to the table:
+
+Strong Rails foundation: Solid understanding of Rails concepts like MVC, ActiveRecord, and testing frameworks like RSpec .
+Practical experience: ️ Developed various Rails applications, from simple prototypes to complex production systems.
+Collaborative spirit: Enjoy working with teams and contributing to open-source projects .
+Continuous learning: Always eager to learn new things and stay up-to-date with the latest trends in Rails development .
+Here are some of my favorite Rails tools and libraries:
+
+Devise: Authentication made easy
+RSpec: Testing made fun 🃏
+Sidekiq: Asynchronous background processing ⏱️
+Stimulus: JavaScript for Rails ⚡️
+Bootstrap: Responsive front-end development
+Let's build something awesome together!
+
+Check out my projects: [link to your projects on Github]
+
+Connect with me: [link to your social media profiles]
 
 * 🌍  I'm based in Brasil
 * 🖥️  See my portfolio at [https://github.com/Diogoazvg](http://github.com/Diogoazvg)
